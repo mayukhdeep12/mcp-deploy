@@ -1,0 +1,4 @@
+fastmcp
+yfinance
+duckduckgo-search
+uvicorn
